@@ -1,0 +1,681 @@
+[
+  {
+    "Id": 13682,
+    "Name": "Letni",
+    "Year": 2024,
+    "Groups": [
+      {
+        "Id": 21206,
+        "Name": "Handmade",
+        "Lessons": [
+          {
+            "Id": 38594,
+            "Name": "withdrawal",
+            "Description": "mobile",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 19512,
+              "Name": "PCI",
+              "Surname": "calculating"
+            },
+            "Room": "overriding"
+          },
+          {
+            "Id": 36759,
+            "Name": "Integrated",
+            "Description": "web services",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 20081,
+              "Name": "Tala",
+              "Surname": "back-end"
+            },
+            "Room": "object-oriented"
+          },
+          {
+            "Id": 3764,
+            "Name": "connecting",
+            "Description": "index",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 34487,
+              "Name": "aggregate",
+              "Surname": "bandwidth-monitored"
+            },
+            "Room": "knowledge user"
+          },
+          {
+            "Id": 12758,
+            "Name": "ability",
+            "Description": "Executive",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 33118,
+              "Name": "SMS",
+              "Surname": "Plastic"
+            },
+            "Room": "hack"
+          }
+        ],
+        "Students": [
+          {
+            "Id": 12700,
+            "Name": "Soft",
+            "Surname": "ROI"
+          },
+          {
+            "Id": 28247,
+            "Name": "France",
+            "Surname": "Tasty Rubber Cheese"
+          },
+          {
+            "Id": 26932,
+            "Name": "Costa Rican Colon",
+            "Surname": "program"
+          },
+          {
+            "Id": 12296,
+            "Name": "e-tailers",
+            "Surname": "bypass"
+          },
+          {
+            "Id": 24327,
+            "Name": "contextually-based",
+            "Surname": "West Virginia"
+          },
+          {
+            "Id": 24342,
+            "Name": "Awesome Metal Table",
+            "Surname": "Lead"
+          },
+          {
+            "Id": 38678,
+            "Name": "Senior",
+            "Surname": "Graphical User Interface"
+          },
+          {
+            "Id": 8576,
+            "Name": "navigating",
+            "Surname": "revolutionary"
+          },
+          {
+            "Id": 4422,
+            "Name": "RAM",
+            "Surname": "Arkansas"
+          },
+          {
+            "Id": 24080,
+            "Name": "COM",
+            "Surname": "ROI"
+          },
+          {
+            "Id": 7961,
+            "Name": "stud",
+            "Surname": "sur"
+          }
+        ]
+      },
+      {
+        "Id": 25630,
+        "Name": "payment",
+        "Lessons": [
+          {
+            "Id": 22253,
+            "Name": "Handmade Fresh Sausages",
+            "Description": "Gorgeous Metal Car",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 12074,
+              "Name": "Pennsylvania",
+              "Surname": "homogeneous"
+            },
+            "Room": "frictionless"
+          },
+          {
+            "Id": 2997,
+            "Name": "Solomon Islands Dollar",
+            "Description": "Frozen",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 19512,
+              "Name": "PCI",
+              "Surname": "calculating"
+            },
+            "Room": "Division"
+          },
+          {
+            "Id": 5663,
+            "Name": "District",
+            "Description": "Seamless",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 20081,
+              "Name": "Tala",
+              "Surname": "back-end"
+            },
+            "Room": "CSS"
+          },
+          {
+            "Id": 9062,
+            "Name": "Multi-layered",
+            "Description": "circuit",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 34487,
+              "Name": "aggregate",
+              "Surname": "bandwidth-monitored"
+            },
+            "Room": "El Salvador Colon"
+          }
+        ],
+        "Students": [
+          {
+            "Id": 24170,
+            "Name": "Intelligent Steel Pizza",
+            "Surname": "SDD"
+          },
+          {
+            "Id": 4143,
+            "Name": "Secured",
+            "Surname": "Turkmenistan"
+          },
+          {
+            "Id": 27411,
+            "Name": "Practical Granite Sausages",
+            "Surname": "Berkshire"
+          },
+          {
+            "Id": 32443,
+            "Name": "Synergistic",
+            "Surname": "Swedish Krona"
+          },
+          {
+            "Id": 7288,
+            "Name": "recontextualize",
+            "Surname": "Borders"
+          },
+          {
+            "Id": 31704,
+            "Name": "Sleek Cotton Soap",
+            "Surname": "withdrawal"
+          },
+          {
+            "Id": 6508,
+            "Name": "Savings Account",
+            "Surname": "navigating"
+          },
+          {
+            "Id": 26920,
+            "Name": "Ramp",
+            "Surname": "cutting-edge"
+          },
+          {
+            "Id": 5646,
+            "Name": "Advanced",
+            "Surname": "Vermont"
+          },
+          {
+            "Id": 28149,
+            "Name": "Refined Cotton Chips",
+            "Surname": "Grove"
+          }
+        ]
+      },
+      {
+        "Id": 20504,
+        "Name": "Music, Garden \u0026 Health",
+        "Lessons": [
+          {
+            "Id": 1522,
+            "Name": "exploit",
+            "Description": "benchmark",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 33118,
+              "Name": "SMS",
+              "Surname": "Plastic"
+            },
+            "Room": "Licensed Frozen Mouse"
+          },
+          {
+            "Id": 19590,
+            "Name": "SSL",
+            "Description": "Fantastic Concrete Shoes",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 12074,
+              "Name": "Pennsylvania",
+              "Surname": "homogeneous"
+            },
+            "Room": "back up"
+          },
+          {
+            "Id": 565,
+            "Name": "Bridge",
+            "Description": "out-of-the-box",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 19512,
+              "Name": "PCI",
+              "Surname": "calculating"
+            },
+            "Room": "Gorgeous Soft Bike"
+          },
+          {
+            "Id": 13272,
+            "Name": "Tennessee",
+            "Description": "Intelligent Steel Tuna",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 20081,
+              "Name": "Tala",
+              "Surname": "back-end"
+            },
+            "Room": "Shoals"
+          }
+        ],
+        "Students": [
+          {
+            "Id": 35247,
+            "Name": "Security",
+            "Surname": "bandwidth"
+          },
+          {
+            "Id": 11342,
+            "Name": "Representative",
+            "Surname": "back up"
+          },
+          {
+            "Id": 9434,
+            "Name": "analyzer",
+            "Surname": "silver"
+          },
+          {
+            "Id": 22563,
+            "Name": "calculate",
+            "Surname": "quantifying"
+          },
+          {
+            "Id": 18176,
+            "Name": "firewall",
+            "Surname": "Maine"
+          },
+          {
+            "Id": 10651,
+            "Name": "Fresh",
+            "Surname": "Chief"
+          },
+          {
+            "Id": 4928,
+            "Name": "Technician",
+            "Surname": "Maine"
+          },
+          {
+            "Id": 8601,
+            "Name": "Incredible",
+            "Surname": "Awesome Cotton Car"
+          },
+          {
+            "Id": 31051,
+            "Name": "Cambridgeshire",
+            "Surname": "Rustic"
+          },
+          {
+            "Id": 3091,
+            "Name": "TCP",
+            "Surname": "Executive"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 21511,
+    "Name": "Zimowy",
+    "Year": 2022,
+    "Groups": [
+      {
+        "Id": 3301,
+        "Name": "convergence",
+        "Lessons": [
+          {
+            "Id": 24373,
+            "Name": "connect",
+            "Description": "Rhode Island",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 34487,
+              "Name": "aggregate",
+              "Surname": "bandwidth-monitored"
+            },
+            "Room": "Kwacha"
+          },
+          {
+            "Id": 24737,
+            "Name": "Louisiana",
+            "Description": "reboot",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 33118,
+              "Name": "SMS",
+              "Surname": "Plastic"
+            },
+            "Room": "Solutions"
+          },
+          {
+            "Id": 6323,
+            "Name": "Cedi",
+            "Description": "compress",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 12074,
+              "Name": "Pennsylvania",
+              "Surname": "homogeneous"
+            },
+            "Room": "innovate"
+          },
+          {
+            "Id": 3712,
+            "Name": "bypass",
+            "Description": "Won",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 19512,
+              "Name": "PCI",
+              "Surname": "calculating"
+            },
+            "Room": "Personal Loan Account"
+          }
+        ],
+        "Students": [
+          {
+            "Id": 36609,
+            "Name": "Handmade Fresh Car",
+            "Surname": "Netherlands Antillian Guilder"
+          },
+          {
+            "Id": 36781,
+            "Name": "orchid",
+            "Surname": "USB"
+          },
+          {
+            "Id": 14867,
+            "Name": "Overpass",
+            "Surname": "THX"
+          },
+          {
+            "Id": 24750,
+            "Name": "Cotton",
+            "Surname": "sensor"
+          },
+          {
+            "Id": 6085,
+            "Name": "Utah",
+            "Surname": "matrix"
+          },
+          {
+            "Id": 17626,
+            "Name": "deliver",
+            "Surname": "Stand-alone"
+          },
+          {
+            "Id": 5936,
+            "Name": "Metal",
+            "Surname": "COM"
+          },
+          {
+            "Id": 23494,
+            "Name": "parse",
+            "Surname": "web-enabled"
+          },
+          {
+            "Id": 1314,
+            "Name": "Handmade Fresh Table",
+            "Surname": "next-generation"
+          },
+          {
+            "Id": 4129,
+            "Name": "Operations",
+            "Surname": "override"
+          }
+        ]
+      },
+      {
+        "Id": 3785,
+        "Name": "Consultant",
+        "Lessons": [
+          {
+            "Id": 3406,
+            "Name": "Andorra",
+            "Description": "back up",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 20081,
+              "Name": "Tala",
+              "Surname": "back-end"
+            },
+            "Room": "payment"
+          },
+          {
+            "Id": 25624,
+            "Name": "Analyst",
+            "Description": "emulation",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 34487,
+              "Name": "aggregate",
+              "Surname": "bandwidth-monitored"
+            },
+            "Room": "Global"
+          },
+          {
+            "Id": 21663,
+            "Name": "mobile",
+            "Description": "gold",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 33118,
+              "Name": "SMS",
+              "Surname": "Plastic"
+            },
+            "Room": "interfaces"
+          },
+          {
+            "Id": 38994,
+            "Name": "synergistic",
+            "Description": "orange",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 12074,
+              "Name": "Pennsylvania",
+              "Surname": "homogeneous"
+            },
+            "Room": "asynchronous"
+          }
+        ],
+        "Students": [
+          {
+            "Id": 21525,
+            "Name": "generate",
+            "Surname": "deposit"
+          },
+          {
+            "Id": 8841,
+            "Name": "Sleek Plastic Car",
+            "Surname": "parse"
+          },
+          {
+            "Id": 37346,
+            "Name": "Washington",
+            "Surname": "navigating"
+          },
+          {
+            "Id": 34514,
+            "Name": "azure",
+            "Surname": "navigating"
+          },
+          {
+            "Id": 15869,
+            "Name": "Western Sahara",
+            "Surname": "Sleek Concrete Sausages"
+          },
+          {
+            "Id": 20216,
+            "Name": "drive",
+            "Surname": "JBOD"
+          },
+          {
+            "Id": 1321,
+            "Name": "Hryvnia",
+            "Surname": "Orchestrator"
+          },
+          {
+            "Id": 22456,
+            "Name": "online",
+            "Surname": "Handcrafted Steel Cheese"
+          },
+          {
+            "Id": 13273,
+            "Name": "Field",
+            "Surname": "Seamless"
+          },
+          {
+            "Id": 27782,
+            "Name": "Shoes",
+            "Surname": "Mandatory"
+          }
+        ]
+      },
+      {
+        "Id": 13227,
+        "Name": "Savings Account",
+        "Lessons": [
+          {
+            "Id": 23316,
+            "Name": "Handcrafted",
+            "Description": "users",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 19512,
+              "Name": "PCI",
+              "Surname": "calculating"
+            },
+            "Room": "Metal"
+          },
+          {
+            "Id": 23790,
+            "Name": "haptic",
+            "Description": "Forward",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 20081,
+              "Name": "Tala",
+              "Surname": "back-end"
+            },
+            "Room": "Metal"
+          },
+          {
+            "Id": 21191,
+            "Name": "Stream",
+            "Description": "Auto Loan Account",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 34487,
+              "Name": "aggregate",
+              "Surname": "bandwidth-monitored"
+            },
+            "Room": "Applications"
+          },
+          {
+            "Id": 3953,
+            "Name": "ubiquitous",
+            "Description": "copying",
+            "StartDate": "4860-10-26T01:37:24.4508683+02:00",
+            "EndDate": "2948-02-14T13:41:24.4574272+01:00",
+            "Teacher": {
+              "Id": 33118,
+              "Name": "SMS",
+              "Surname": "Plastic"
+            },
+            "Room": "fuchsia"
+          }
+        ],
+        "Students": [
+          {
+            "Id": 33272,
+            "Name": "Personal Loan Account",
+            "Surname": "CSS"
+          },
+          {
+            "Id": 36245,
+            "Name": "Berkshire",
+            "Surname": "Optimized"
+          },
+          {
+            "Id": 16045,
+            "Name": "Washington",
+            "Surname": "input"
+          },
+          {
+            "Id": 1520,
+            "Name": "digital",
+            "Surname": "copying"
+          },
+          {
+            "Id": 14121,
+            "Name": "programming",
+            "Surname": "innovate"
+          },
+          {
+            "Id": 32469,
+            "Name": "Intelligent Wooden Hat",
+            "Surname": "Lakes"
+          },
+          {
+            "Id": 14173,
+            "Name": "Cambridgeshire",
+            "Surname": "Generic"
+          },
+          {
+            "Id": 7361,
+            "Name": "payment",
+            "Surname": "Ergonomic Fresh Computer"
+          },
+          {
+            "Id": 15948,
+            "Name": "Burg",
+            "Surname": "Avon"
+          },
+          {
+            "Id": 27642,
+            "Name": "payment",
+            "Surname": "Mountains"
+          }
+        ]
+      }
+    ]
+  }
+]
